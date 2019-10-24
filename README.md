@@ -14,7 +14,7 @@ We aim to accomplish this through three channels:
 
 This documentation is open source and hosted on GitHub which means that anyone has the ability to contribute. The goal is to make sure the information is available, clear, concise, and up to date.
 
-## How to make changes to DeFi School
+## How to Make Changes to DeFi School
 
 1. Head over to [DeFi School's Github repo](https://github.com/kermankohli/defi-school).
 2. Log in to your Github account or create a new one
