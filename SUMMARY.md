@@ -1,36 +1,51 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [History](history.md)
+* [Welcome](README.md)
 
-## Learn
+## Section I - What is DeFi?
 
-* [Concepts](learn/concepts.md)
-* [Teminology](learn/teminology.md)
-* [Risks](learn/risks.md)
+* [Introduction](section-i-what-is-defi/introduction.md)
+* [History](section-i-what-is-defi/history.md)
 
-## Categories <a id="projects-1"></a>
+## Section II - DeFi Concepts
 
-* [Lending/Borrowing](projects-1/lending-borrowing/README.md)
-  * [Compound](projects-1/lending-borrowing/compound.md)
-  * [Nuo](projects-1/lending-borrowing/nuo.md)
-* [Derivatives](projects-1/derivatives/README.md)
-  * [Synthetix](projects-1/derivatives/synthetix.md)
-  * [dYdX](projects-1/derivatives/dydx.md)
-  * [bZx](projects-1/derivatives/bzx.md)
-* [Stablecoins](projects-1/stablecoins/README.md)
-  * [MakerDAO](projects-1/stablecoins/makerdao.md)
-* [Decentralised Exchanges](projects-1/decentralised-exchanges/README.md)
-  * [0x](projects-1/decentralised-exchanges/0x.md)
-  * [Uniswap](projects-1/decentralised-exchanges/uniswap.md)
-* [Wallets/Aggregators](projects-1/wallets-aggregators/README.md)
-  * [Dharma](projects-1/wallets-aggregators/dharma.md)
-* [Other](projects-1/other.md)
+* [Concepts](section-ii-defi-concepts/concepts.md)
+* [Lending/Borrowing](section-ii-defi-concepts/lending-borrowing/README.md)
+  * [Compound](section-ii-defi-concepts/lending-borrowing/compound.md)
+  * [Nuo](section-ii-defi-concepts/lending-borrowing/nuo.md)
+* [Derivatives](section-ii-defi-concepts/derivatives/README.md)
+  * [Synthetix](section-ii-defi-concepts/derivatives/synthetix.md)
+  * [dYdX](section-ii-defi-concepts/derivatives/dydx.md)
+  * [bZx](section-ii-defi-concepts/derivatives/bzx.md)
+* [Stablecoins](section-ii-defi-concepts/stablecoins/README.md)
+  * [MakerDAO](section-ii-defi-concepts/stablecoins/makerdao.md)
+* [Decentralised Exchanges](section-ii-defi-concepts/decentralised-exchanges/README.md)
+  * [0x](section-ii-defi-concepts/decentralised-exchanges/0x.md)
+  * [Uniswap](section-ii-defi-concepts/decentralised-exchanges/uniswap.md)
+* [Wallets/Aggregators](section-ii-defi-concepts/wallets-aggregators/README.md)
+  * [Dharma](section-ii-defi-concepts/wallets-aggregators/dharma.md)
+* [Other](section-ii-defi-concepts/other.md)
 
-## Community
+## Section III - Risk <a id="projects-1"></a>
 
-* [Articles](community/articles.md)
-* [Newsletters](community/newsletters.md)
-* [Podcasts](community/podcasts.md)
-* [People](community/people.md)
+* [Risk](projects-1/risks/README.md)
+  * [Financial](projects-1/risks/financial.md)
+  * [Procedural](projects-1/risks/procedural.md)
+  * [Technical](projects-1/risks/technical.md)
+
+## Section IV - Where to stay up-to-date
+
+* [Articles](section-iv-where-to-stay-up-to-date/articles.md)
+* [Communities](section-iv-where-to-stay-up-to-date/communities.md)
+* [Newsletters](section-iv-where-to-stay-up-to-date/newsletters.md)
+* [People](section-iv-where-to-stay-up-to-date/people.md)
+* [Podcasts & Videos](section-iv-where-to-stay-up-to-date/podcasts.md)
+
+## Section V - How to get involved
+
+* [Jobs](section-v-how-to-get-involved/jobs.md)
+
+## Section VI - DeFi Glossary
+
+* [Glossary](section-vi-defi-glossary/teminology.md)
 
