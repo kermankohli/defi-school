@@ -3,7 +3,7 @@ All pages use Markdown and please be sure to use `.md` as the extension when cre
 
 [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## [Click](/built-on-ethereum/open-finance/stablecoins/crypto-backed/dai.md) for an example of what a fully-fledged page looks like.
+## [Click](https://www.defi.school/) for an example of what a fully-fledged page looks like.
 ------------------------
 # [Template Begin]
 `title: [Page Title] - EthHub`  
