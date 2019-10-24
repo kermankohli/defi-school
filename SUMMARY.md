@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to DeFi School! 😀](README.md)
 
 ## Section I - What is DeFi?
 
