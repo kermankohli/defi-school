@@ -2,7 +2,7 @@
 
 ## **What is Decentralized Finance?** 🤷‍♂️
 
-Decentralized Finance is a field of application for distributed ledger technologies involving the development of financial products and services that mitigate reliance on central authorities.
+Decentralized Finance \(DeFi\) is a field of application for distributed ledger technologies involving the development of financial products and services that mitigate reliance on central authorities.
 
 ## What is Distributed Ledger Technology?
 

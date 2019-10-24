@@ -15,7 +15,7 @@
   * [Nuo](section-ii-defi-concepts/lending-borrowing/nuo.md)
 * [Derivatives](section-ii-defi-concepts/derivatives/README.md)
   * [Synthetix](section-ii-defi-concepts/derivatives/synthetix.md)
-  * [dYdX](section-ii-defi-concepts/derivatives/dydx.md)
+  * [dY/dX](section-ii-defi-concepts/derivatives/dydx.md)
   * [bZx](section-ii-defi-concepts/derivatives/bzx.md)
 * [Stablecoins](section-ii-defi-concepts/stablecoins/README.md)
   * [MakerDAO](section-ii-defi-concepts/stablecoins/makerdao.md)
