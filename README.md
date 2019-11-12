@@ -33,3 +33,5 @@ There are also some basic guidelines that need to be followed when contributing 
 
 **DISCLAIMER: DeFi School is a completely independent and open-source initiative founded by members of the Ethereum community. Nothing contained in this Github repository should be considered financial or investment advice - it is for informational purposes only.**
 
+Now that we've got the formalities out of the way, let's get to DeFi!
+

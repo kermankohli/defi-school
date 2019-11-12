@@ -1,8 +1,16 @@
 # Concepts
 
-## What is finance, anyway?
+For an expanded list of these concepts, please check out the [Glossary](https://app.gitbook.com/@kermankohli/s/defi-school/~/edit/drafts/-LrvNZgBZxv5SUzCrwPQ/section-vi-defi-glossary/teminology) of this Gitbook
 
-We covered what "decentralized" means in the previous chapter \(you can look up many of these concepts in the [Glossary](https://app.gitbook.com/@kermankohli/s/defi-school/~/edit/drafts/-LrvNZgBZxv5SUzCrwPQ/section-vi-defi-glossary/teminology) of this Gitbook\), so what does "finance" actually cover?
+## Decentralization
+
+In a general sense, decentralization is a process by which power is distributed away from an intermediary authority. 
+
+In the context of blockchain and distributed ledger technologies, it means developing open source software that serves either the same or a similar function to existing financial products and services.
+
+## Finance
+
+What is Finance, Anyway?
 
 Finance encompasses the theory and practice of raising and managing funds in a personal, organizational, or public context. 
 
