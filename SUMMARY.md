@@ -9,24 +9,31 @@
 
 ## Section II - DeFi Concepts
 
-* [Concepts](section-ii-defi-concepts/concepts.md)
 * [Lending/Borrowing](section-ii-defi-concepts/lending-borrowing/README.md)
+  * [Celsius](section-ii-defi-concepts/lending-borrowing/celsius.md)
   * [Compound](section-ii-defi-concepts/lending-borrowing/compound.md)
+  * [Dharma](section-ii-defi-concepts/lending-borrowing/dharma.md)
+  * [ETHLend](section-ii-defi-concepts/lending-borrowing/ethlend.md)
+  * [MakerDAO](section-ii-defi-concepts/lending-borrowing/makerdao.md)
   * [Nuo](section-ii-defi-concepts/lending-borrowing/nuo.md)
+  * [Salt](section-ii-defi-concepts/lending-borrowing/salt.md)
 * [Derivatives](section-ii-defi-concepts/derivatives/README.md)
-  * [Synthetix](section-ii-defi-concepts/derivatives/synthetix.md)
-  * [dY/dX](section-ii-defi-concepts/derivatives/dydx.md)
   * [bZx](section-ii-defi-concepts/derivatives/bzx.md)
+  * [dY/dX](section-ii-defi-concepts/derivatives/dydx.md)
+  * [Set Protocol](section-ii-defi-concepts/derivatives/set-protocol.md)
+  * [Synthetix](section-ii-defi-concepts/derivatives/synthetix.md)
 * [Stablecoins](section-ii-defi-concepts/stablecoins/README.md)
   * [MakerDAO \(DAI\)](section-ii-defi-concepts/stablecoins/makerdao.md)
   * [Stably \(USDS\)](section-ii-defi-concepts/stablecoins/stably-usds.md)
   * [Tether \(USDT\)](section-ii-defi-concepts/stablecoins/tether-usdt.md)
+  * [USD Coin \(USDC\)](section-ii-defi-concepts/stablecoins/usd-coin-usdc.md)
 * [Decentralised Exchanges](section-ii-defi-concepts/decentralised-exchanges/README.md)
   * [0x](section-ii-defi-concepts/decentralised-exchanges/0x.md)
   * [Uniswap](section-ii-defi-concepts/decentralised-exchanges/uniswap.md)
 * [Wallets/Aggregators](section-ii-defi-concepts/wallets-aggregators/README.md)
-  * [Dharma](section-ii-defi-concepts/wallets-aggregators/dharma.md)
-* [Other](section-ii-defi-concepts/other.md)
+  * [Argent](section-ii-defi-concepts/wallets-aggregators/argent.md)
+  * [Dexwallet](section-ii-defi-concepts/wallets-aggregators/dexwallet.md)
+  * [Metamask](section-ii-defi-concepts/wallets-aggregators/metamask.md)
 
 ## Section III - Risk <a id="projects-1"></a>
 

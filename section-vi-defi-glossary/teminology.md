@@ -42,7 +42,9 @@ A
 
 ## Smart Contracts
 
-A form of software that creates rules for governing digital transactions.
+A smart contract is a form of software that creates rules for governing digital transactions. It includes an account, a mechanism for interacting with tokens, bytecode, and data.
+
+Smart contracts play a critical role in the development of DeFi because they help define the ways in which blockchains communicate and interact with the world.
 
 ## Stablecoin
 
