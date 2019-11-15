@@ -28,6 +28,7 @@
   * [Tether \(USDT\)](section-ii-defi-concepts/stablecoins/tether-usdt.md)
   * [USD Coin \(USDC\)](section-ii-defi-concepts/stablecoins/usd-coin-usdc.md)
 * [Decentralised Exchanges](section-ii-defi-concepts/decentralised-exchanges/README.md)
+  * [Kyber Network](section-ii-defi-concepts/decentralised-exchanges/kyber-network.md)
   * [0x](section-ii-defi-concepts/decentralised-exchanges/0x.md)
   * [Uniswap](section-ii-defi-concepts/decentralised-exchanges/uniswap.md)
 * [Wallets/Aggregators](section-ii-defi-concepts/wallets-aggregators/README.md)
@@ -52,7 +53,7 @@
 
 ## Section V - How to get involved
 
-* [Jobs](section-v-how-to-get-involved/jobs.md)
+* [Bounties & Jobs](section-v-how-to-get-involved/jobs.md)
 
 ## Section VI - DeFi Glossary
 
