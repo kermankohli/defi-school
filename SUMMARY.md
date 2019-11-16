@@ -5,7 +5,6 @@
 ## Section I - What is DeFi?
 
 * [Introduction](section-i-what-is-defi/introduction.md)
-* [History](section-i-what-is-defi/history.md)
 
 ## Section II - DeFi Concepts
 
@@ -38,10 +37,7 @@
 
 ## Section III - Risk <a id="projects-1"></a>
 
-* [Risk](projects-1/risks/README.md)
-  * [Financial](projects-1/risks/financial.md)
-  * [Procedural](projects-1/risks/procedural.md)
-  * [Technical](projects-1/risks/technical.md)
+* [Risk](projects-1/risks.md)
 
 ## Section IV - Where to stay up-to-date
 
