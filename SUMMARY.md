@@ -35,21 +35,21 @@
   * [Dexwallet](section-ii-defi-concepts/wallets-aggregators/dexwallet.md)
   * [Metamask](section-ii-defi-concepts/wallets-aggregators/metamask.md)
 
-## Section III - Risk <a id="projects-1"></a>
+## Section III - Risk in DeFi <a id="projects-1-risk-in-defi"></a>
 
-* [Risk](projects-1/risks.md)
+* [Risk](projects-1-risk-in-defi/risks.md)
 
-## Section IV - Where to stay up-to-date
+## Section IV - DeFi Resources <a id="section-iv-def-resources"></a>
 
-* [Articles](section-iv-where-to-stay-up-to-date/articles.md)
-* [Communities](section-iv-where-to-stay-up-to-date/communities.md)
-* [Newsletters](section-iv-where-to-stay-up-to-date/newsletters.md)
-* [People](section-iv-where-to-stay-up-to-date/people.md)
-* [Podcasts & Videos](section-iv-where-to-stay-up-to-date/podcasts.md)
+* [Articles](section-iv-def-resources/articles.md)
+* [Communities](section-iv-def-resources/communities.md)
+* [Newsletters](section-iv-def-resources/newsletters.md)
+* [People](section-iv-def-resources/people.md)
+* [Podcasts & Videos](section-iv-def-resources/podcasts.md)
 
-## Section V - How to get involved
+## Section V - Getting Involved
 
-* [Bounties & Jobs](section-v-how-to-get-involved/jobs.md)
+* [Bounties & Jobs](section-v-getting-involved/jobs.md)
 
 ## Section VI - DeFi Glossary
 
