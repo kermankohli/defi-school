@@ -34,6 +34,7 @@
   * [Argent](section-ii-defi-concepts/wallets-aggregators/argent.md)
   * [Dexwallet](section-ii-defi-concepts/wallets-aggregators/dexwallet.md)
   * [Metamask](section-ii-defi-concepts/wallets-aggregators/metamask.md)
+  * [ParaSwap](section-ii-defi-concepts/wallets-aggregators/paraswap.md)
 
 ## Section III - Risk in DeFi <a id="projects-1-risk-in-defi"></a>
 
