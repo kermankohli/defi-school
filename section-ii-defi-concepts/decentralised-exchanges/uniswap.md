@@ -2,5 +2,19 @@
 
 As described on its website, "Uniswap is a protocol for automated token exchange on Ethereum."
 
-Link: [https://uniswap.io/](https://uniswap.io/)
+## Guides
+
+### Articles
+
+
+
+### Videos
+
+[How to Trade on Uniswap Exchange](https://www.youtube.com/watch?v=MNbfdoSXTHE) by Broke Satoshi
+
+## Links
+
+[Website](https://uniswap.io/)  
+[Blog](https://medium.com/uniswap)  
+[Twitter](https://twitter.com/UniswapExchange)
 

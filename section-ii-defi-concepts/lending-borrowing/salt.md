@@ -1,4 +1,4 @@
-# Salt
+# SALT
 
 Salt provides cryptocurrency-backed loans.
 
@@ -6,5 +6,19 @@ Unlike many other loan protocols, Salt's loans come with a number of stipulation
 
 On the other hand, collateral invested with Salt is 100% insured against physical and Internet-based risks.
 
-Link: [https://saltlending.com/](https://saltlending.com/)
+## Guides
+
+### Articles
+
+
+
+### Videos
+
+[How SALT Lending Works](https://www.youtube.com/watch?v=wcbceVnym3Y) by SALT Lending
+
+## Links
+
+[Website](https://saltlending.com/)  
+[Blog](https://blog.saltlending.com/)  
+[Twitter](https://twitter.com/SALTLending)
 

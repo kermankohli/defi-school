@@ -4,5 +4,23 @@ As the website explains, "Maker is comprised of a decentralized stablecoin, coll
 
 MakerDAO governs the system that enables users to mint DAI - a cryptocurrency-collateralized stablecoin whose value is pegged to the U.S. dollar.
 
-Link: [https://makerdao.com/en/](https://makerdao.com/en/)
+## Guides
+
+### Articles
+
+
+
+### Videos
+
+[Introduction to Maker: What is MKR?](https://www.youtube.com/watch?v=rD1KoEPKz5I) by MakerDAO
+
+[Single Wallet Governance Dashboard Walk-through](https://www.youtube.com/watch?v=nWhLzyhZV-Q) by MakerDAO
+
+[Linked Wallet Governance Dashboard Walk-through](https://www.youtube.com/watch?v=-zq6_ZJ0MpI) by MakerDAO
+
+## Links
+
+[Website  
+](https://makerdao.com/en/)Blog  
+[Twitter](https://twitter.com/MakerDAO)
 

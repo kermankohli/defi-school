@@ -13,9 +13,8 @@
   * [Compound](section-ii-defi-concepts/lending-borrowing/compound.md)
   * [Dharma](section-ii-defi-concepts/lending-borrowing/dharma.md)
   * [ETHLend](section-ii-defi-concepts/lending-borrowing/ethlend.md)
-  * [MakerDAO](section-ii-defi-concepts/lending-borrowing/makerdao.md)
   * [Nuo](section-ii-defi-concepts/lending-borrowing/nuo.md)
-  * [Salt](section-ii-defi-concepts/lending-borrowing/salt.md)
+  * [SALT](section-ii-defi-concepts/lending-borrowing/salt.md)
 * [Derivatives](section-ii-defi-concepts/derivatives/README.md)
   * [bZx](section-ii-defi-concepts/derivatives/bzx.md)
   * [dY/dX](section-ii-defi-concepts/derivatives/dydx.md)
@@ -42,9 +41,8 @@
 
 ## Section IV - DeFi Resources <a id="section-iv-def-resources"></a>
 
-* [Articles](section-iv-def-resources/articles.md)
+* [Articles & Newsletters](section-iv-def-resources/articles.md)
 * [Communities](section-iv-def-resources/communities.md)
-* [Newsletters](section-iv-def-resources/newsletters.md)
 * [People](section-iv-def-resources/people.md)
 * [Podcasts & Videos](section-iv-def-resources/podcasts.md)
 
