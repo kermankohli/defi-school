@@ -21,6 +21,13 @@
 * [DeFi\_Español](https://t.me/DeFiEs)
 * [DeFi France](https://t.me/defifrance)
 * [DeFi Russia](https://t.me/DefiRu)
+* [DeFi London](https://t.me/defians)
+* [DeFi Korea](https://t.me/DeFiKorea)
+* [DeFi Singapoure](https://t.me/defi_SG)
+* [DeFi Italy](https://t.me/defi_italy/)
+* [DeFi NYC](https://t.me/DeFi_NYC)
+* [DeFi London](https://t.me/defians)
+
 
 ## Reddit
 
