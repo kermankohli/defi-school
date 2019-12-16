@@ -1,6 +1,6 @@
-# ETHLend
+# Aave
 
-ETHLend offers cryptocurrency-collateralized loans for 1 to 12-month terms providing a minimum 3% interest and 0% origination fees.
+Aave offers cryptocurrency-collateralized loans for 1 to 12-month terms providing a minimum 3% interest and 0% origination fees.
 
 ## Guides
 
@@ -18,7 +18,7 @@ ETHLend offers cryptocurrency-collateralized loans for 1 to 12-month terms provi
 
 ## Links
 
-[Website](https://ethlend.io/)  
+[Website](https://aave.com/)  
 [Blog](https://medium.com/aave)  
 [Twitter](https://twitter.com/AaveAave)
 
