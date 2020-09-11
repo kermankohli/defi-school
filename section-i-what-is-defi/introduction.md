@@ -21,9 +21,9 @@ In the context of blockchain and distributed ledger technologies, it means devel
 
 A good way to determine whether or not an application is "decentralized" is to ask yourself the following question: "Would the application become unavailable in the event that the company or companies building it were to cease to exist?
 
-If the application would become unavailable, it's not decentralized.
+If the application would become unavailable, it is not decentralized.
 
-If the application wouldn't become available, then it is. 
+If the application would still be available, then it is decentralized. 
 
 ## What is Finance?
 
