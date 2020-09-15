@@ -23,7 +23,7 @@ A good way to determine whether or not an application is "decentralized" is to a
 
 If the application would become unavailable, it's not decentralized.
 
-If the application wouldn't become available, then it is. 
+If the application wouldn't become unavailable, then it is. 
 
 ## What is Finance?
 
